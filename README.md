@@ -28,7 +28,7 @@ User Prompt → AI Inference API (Flask) → Custom Prometheus Metrics
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ai-platform-operations.git
+git clone https://github.com/farzeenmuneer/ai-platform-operations.git
 cd ai-platform-operations
 ```
 
