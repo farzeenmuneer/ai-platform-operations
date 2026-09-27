@@ -8,6 +8,7 @@ services:
     networks:
       - sre-network
     restart: unless-stopped
+    
 
   prometheus:
     image: prom/prometheus:v2.55.0
