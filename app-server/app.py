@@ -6,9 +6,6 @@ import random
 app = Flask(__name__)
 
 
-# ============================================
-# CUSTOM SRE METRICS
-# ============================================
 TOKEN_COUNT = Counter(
     'ai_tokens_processed_total',
     'Total volume of LLM tokens generated',
